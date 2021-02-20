@@ -4,6 +4,6 @@ Here I learned how to: <br />create and work with Sockets <br />initiate connect
 <br />Thanks to sentdex!
 <br /><br /><br />
 open cmd:<br />
-  python server.py
+  *python server.py*
 <br />open one or more cmd:<br />
-  python client.py
+  *python client.py*
